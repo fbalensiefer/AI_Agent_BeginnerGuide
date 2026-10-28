@@ -14,9 +14,9 @@ This project guides you step by step through building a simple AI assistant usin
 
 ## Getting Started
 
+[To the Notebook...](https://nbviewer.org/github/fbalensiefer/AI_Agent_BeginnerGuide/blob/main/ai_agents_beginner_guide.ipynb)
+
 Install the dependencies:
 
 ```bash
 pip install nbformat openai
-
-[To the Notebook...](https://nbviewer.org/github/fbalensiefer/AI_Agent_BeginnerGuide/blob/main/ai_agents_beginner_guide.ipynb)
