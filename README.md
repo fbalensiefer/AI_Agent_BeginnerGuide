@@ -1,2 +1,20 @@
-# AI_Agent_BeginnerGuide
-Beginner Guide for developing AI Agents with Python, Jupyter Notebook and OpenAI API
+# Build Your First AI Agent with Python
+
+Learn the fundamentals of AI agents through a practical, beginner-friendly Jupyter Notebook.
+
+This project guides you step by step through building a simple AI assistant using Python and the OpenAI API.
+
+## What You'll Learn
+
+- Understand AI agents and how they work.
+- Connect Python to an AI model.
+- Build tools using function calling.
+- Implement a basic agent loop.
+- Apply essential security and validation practices.
+
+## Getting Started
+
+Install the dependencies:
+
+```bash
+pip install nbformat openai
